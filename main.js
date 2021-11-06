@@ -11044,7 +11044,7 @@ var environment = {
     API_URL: 'http://185.251.233.24:3000/backend-monitor/api/vent',
     DB_USERS: 'http://admin:Mexico2020@23.98.145.144:5984/users',
     DB_PATIENT_EPOCA: 'http://admin:Mexico2020@23.98.145.144:5984/patient_epochs_ai',
-    EMAIL: 'http://localhost:5000/backend-sendgrid/',
+    EMAIL: 'http://185.251.233.24:5000/backend-sendgrid/',
     EMAIL_GRID_API: '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',
     USER_URI: 'user/',
     DOWNLOAD_URI: 'download/',
@@ -11100,7 +11100,7 @@ var environment = {
  *
  * This import should be commented out in production mode because it will have a negative impact
  * on performance if an error is thrown.
- */
+ */ 
 
 
 /***/ }),
@@ -11138,7 +11138,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/main.ts */"./src/main.ts");
 
 
 /***/ }),

@@ -794,19 +794,19 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/node_modules/font-awesome/css/font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css */"./node_modules/bootstrap/dist/css/bootstrap-reboot.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/node_modules/ngx-toastr/toastr.css */"./node_modules/ngx-toastr/toastr.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/bootstrap/css/bootstrap.min.css */"./src/assets/vendor/bootstrap/css/bootstrap.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/icofont/icofont.min.css */"./src/assets/vendor/icofont/icofont.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/boxicons/css/boxicons.min.css */"./src/assets/vendor/boxicons/css/boxicons.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/animate.css/animate.min.css */"./src/assets/vendor/animate.css/animate.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/venobox/venobox.css */"./src/assets/vendor/venobox/venobox.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/owl.carousel/assets/owl.carousel.min.css */"./src/assets/vendor/owl.carousel/assets/owl.carousel.min.css");
-__webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/assets/vendor/aos/aos.css */"./src/assets/vendor/aos/aos.css");
-module.exports = __webpack_require__(/*! /root/.pit/PWA-Android-IOS/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/node_modules/font-awesome/css/font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css */"./node_modules/bootstrap/dist/css/bootstrap-reboot.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/node_modules/ngx-toastr/toastr.css */"./node_modules/ngx-toastr/toastr.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/bootstrap/css/bootstrap.min.css */"./src/assets/vendor/bootstrap/css/bootstrap.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/icofont/icofont.min.css */"./src/assets/vendor/icofont/icofont.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/boxicons/css/boxicons.min.css */"./src/assets/vendor/boxicons/css/boxicons.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/animate.css/animate.min.css */"./src/assets/vendor/animate.css/animate.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/venobox/venobox.css */"./src/assets/vendor/venobox/venobox.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/owl.carousel/assets/owl.carousel.min.css */"./src/assets/vendor/owl.carousel/assets/owl.carousel.min.css");
+__webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/assets/vendor/aos/aos.css */"./src/assets/vendor/aos/aos.css");
+module.exports = __webpack_require__(/*! /home/edgar/Infosapiens/PWA-Android-IOS/src/styles.css */"./src/styles.css");
 
 
 /***/ })
