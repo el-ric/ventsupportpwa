@@ -1,0 +1,383 @@
+{
+    "simulacion": "Simulation",
+    "idPaciente": "Patient Id:",
+    "idPacienteP":"Patient Id",
+    "cama": "Bed:",
+    "camaP":"Bed",
+    "paciente": "Patient:",
+    "adulto": "Adult",
+    "pediatrico": "Pediatric",
+    "neonatal": "Neonatal",
+    "genero": "Gender:",
+    "masculino": "Male",
+    "femenino": "Female",
+    "edad": "Age:",
+    "anios": "Years",
+    "estatura": "Height",
+    "metro": "M",
+    "sofa": "SOFA:",
+    "sofaP":"SOFA",
+    "peso": "Weight",
+    "unidadMedidaPeso": "Kg",
+    "saps": "SAPS:",
+    "sapsP":"SAPS",
+    "diagnostico": "Diagnosis:",
+    "opcionesDiagnostico": ["Select", "Cardiac", "Pulmonary", "Renal", "Neuro", "GI", "Surgical", "Trauma", "Airway", "Other"],
+    "covid": "Covid-19:",
+    "btnContinuar": "Continue",
+    "btnGuardar": "Save",
+    "btnEnviar": "Send",
+    "si":"Yes",
+    "no": "No",
+    "generoTabHead": "Gender",
+    "filterByHospitalOrId": "Filter by Hospital or Patient id",
+    "calculadora":"Calculator",
+    "clinicalAVI": "Clinical Artificial Ventilation Intelligence (VentSupport)",
+    "bienvenido": "Welcome to the registration process for the installation of the ``VentSupport´´ Software, which facilitates the clinical interpretation and monitoring of a patient connected to a Mechanical Ventilator in a hospital.",
+    "registroUsuario": "VentSupport User Registration",
+    "nombre": "Name",
+    "correo": "Email",
+    "pais": "Country",
+    "hospital": "Hospital",
+    "seleccioinar": "Select",
+    "usuario": "User",
+    "contrasena": "Password",
+    "campoRequerido": "Required field",
+    "validaContrasena": "The password must have at least 1 capital letter, 1 lowercase letter and 1 number",
+    "confirmarContrasena": "Confirm",
+    "minvalidacion":"At least 8 characters are required",
+    "minvalidacioncinco":"At least 5 characters are required",
+    "maxvalidacion":"Max characters",
+    "aceptar": "Accept",
+    "validaContrasenas": "Password does not match",
+    "validaUsuario": "Invalid user",
+    "validaNombre": "Invalid name",
+    "validaCorreo": "Invalid email",
+    "aceptarTerminos": "I accept terms & conditions",
+    "aceptacionTerminos2": "I accept Terms & Conditions",
+    "cancelar": "Cancel",
+    "terminosCondiciones": "Terms & Conditions",
+    "descarga": "VentSupport software download",
+    "descargar": "Download",
+    "sistemaOperativo": " Your operating system",
+    "idioma": "Your preferred languages",
+    "idiomas": "Spanish,English",
+    "descargaRecomendad": "Recommended Download",
+    "licenciaSoftware": "Software use License",
+    "politicas": "Privacy Policy",
+    "ingresar": "Login",
+    "aceptacionTerminos": "I understand and accept the following agreement (it is required to fully review it):",
+    "borrarTooltip": "Delete",
+    "editarTooltip": "Edit",
+    "experto": "Expert",
+    "clinico": "Clinical",
+    "administrador": "Administrator",
+    "comercial": "Commercial",
+    "adminHospital":"Hospital administrator",
+    "registroHosiptal":"Hospitals Registration",
+    "viewDispositivos":"Registered Raspberry Devices",
+    "registroLicencias":"License registration",
+    "idHospital":"Id Hospital",
+    "usuarioRegistro":"Registered By",
+    "fechaCreacion":"Registration Date",
+    "serie":"Serial number",
+    "ventilador":"Fan brand",
+    "vigencia":"Validity",
+    "rango":"Range",
+    "idVentilador":"Id Fan",
+    "fechaModificacion":"Modification date",
+    "licencia":"Serial number",
+    "correoContacto":"Contact Email",
+    "nombreContacto":"Contact Name",
+    "modalLicencia":"Upgrade license",
+    "licenciaActualizada":"Updated License",
+    "licenciaGuardada":"Saved license",
+    "buscar":"Search hospital",
+    "buscarlic":"Search license",
+    "numeroLicencia":"License number",
+    "Dashboardone":"Dashboard-UseOfTheApplication",
+    "Dashboardtwo":"Dashboard-ExpertClassification",
+    "mensajeModal1":"Please fill in hospital field, choose country and status.",
+    "mensajeModal2":"Hospital field must have at least 5 characters.",
+    "hospitalExistente":"Hospital already exists, try another hospital.",
+    "hospitalActualizado":"Successfully upgraded hospital.",
+    "hospitalInsertado":"Hospital inserted successfully.",
+    "modalUsuario":"Upgrade user",    
+    "usuarioDemoActualizada": "Upgrade user",
+    "simulacionModo":"Simulation mode",
+    "usuariosDemoVista":"Demo Users View",
+    "codigo":"Code",
+    "codigoingrese":"You have another session open in another devise. Please enter the code sent to your email registered in order to sign in.",    
+    "codigoCorreoSubject":"Login code",
+    "codigoCorreoBody":"Please type this code",
+    "idMonitor":"Id Monitor",
+    "direccionSSH":"SSH address",
+    "direccionVNC":"VNC address",
+    "so":"Operating system",
+    "idDispositivo":"Id Device",
+
+    "contacto": {
+        "campoRequerido": "Required field",
+        "comentarios": "Comments",
+        "correo": "Email",
+        "nombre": "Name",
+        "contacto": "Contact",
+        "quejas": "Complaints and suggestions",
+        "asunto": "Subject"
+    },
+    "descargaModulo":{
+        "windows":{
+            "textoBotonDesc": "for Windows",
+            "sistema": "Windows 10 x86"
+        },
+        "linux":{
+            "textoBotonDesc": "for Ubuntu",
+            "sistema": "Ubuntu 18.4 x86"
+        }
+    },
+    "graficas": {
+        "flow": "Flow",
+        "pressure": "Pressure",
+        "breathing": "Breathing Patterns %",
+        "ventilation": "Respiratoy Variability Index",
+        "severity": "Significance %",
+        "autopeep": "AutoPEEP %",
+        "goaly": "",
+        "goalx": "Hours",
+        "segundos": "Seconds"
+    },
+    "predictions": {
+        "mod_3_prediction": "Synchronous",
+        "mod_4_prediction": "Mild",
+        "mod_5_prediction": "Possible AutoPEEP"
+    },
+    "epoca":{
+        "msgNotPatients": "You have not registered Patients",
+        "msgNotActivePatients": "You have not active Patients",
+        "searchEpoch": "Search Epochs",
+        "notResultsFound": "Not results found",
+        "selectDate": "Select range of dates:",
+        "selectEpoch": "Select an epoch:",
+        "asincrono": "Asynchronous",
+        "ivr": "Respiratory Variability Index (RVI)",
+        "sobreSedado": "Possible over sedation",
+        "breathingPattern":"Breathing pattern",
+        "ventilatorSettings":"Ventilator settings",
+        "measuredValues":"Measured values",
+        "accion": "Clinical actions",
+        "tiempo":"last 2 mins",
+        "actions":"Suggested Actions",
+        "nivel":"Level",
+        "nivellista":{
+            "leve":"Mild",
+            "moderado":"Moderate",
+            "severo":"Severe"
+        },
+        "tabla":{
+            "mode":"Mode",
+            "fi02":"FIO2",
+            "tv":"Tidal Volume",
+            "rr":"Respiratory Rate",
+            "press":"Press",
+            "peep":"Peep",
+            "peal":"Press Peak",
+            "mean":"Press Mean",
+            "compliance":"Compliance"
+        }
+    },
+    "cerrarsesion":"Logout",
+    "menu":{
+        "paciente":"Classification",
+        "usuarios": "Users",
+        "activos": "Active",
+        "historico": "Patients",
+        "reportes": "Reports",
+        "hospitales":"Hospitals",
+        "alertas":"Alert settings",
+        "licencias":"Licenses",
+        "dispositivos":"Devices"
+    },
+
+    "reportes":{
+        "tablerouno": "Use of the application ",
+        "tablerodos": "Expert classification",
+        "paises":"Total Countries",
+        "pacientes":"Total Patients",
+        "hospitales":"Total Hospitals",
+        "epocas":"Total Epochs",
+        "tituloepoca":"Times per month",
+        "titulomes":"Patients per month        ",
+        "titulosupervisados":"Supervised Epochs",
+        "titulohospital":"Patients by hospital",
+        "tituloexperto":"Times per expert"
+    },
+    "registro":{
+        "envio":"An email was sent to:",
+        "titulo":"User created."
+    },
+    "cambiocontrasenia":{
+        "pregunta":"Forgot your password?",
+        "titulo":"Change of password"
+    },
+    "mexico":"Mexico",
+    "estadosUnidos":"United States",
+    "argentina":"Argentina",
+    "brasil":"Brazil",
+    "colombia":"Colombia",
+    "costaR":"Costa Rica",
+    "ecuador":"Ecuador",
+    "peru":"Peru",
+    "chile":"Chile",
+    "panama":"Panama",
+    "republicaD":"Dominican Republic",
+    "alertas":{
+        "tituloAlerta":"Alert title",
+        "descripcionAlert":"Description",
+        "estatus":"Status",
+        "registroAlertas": "Alerts Registration"
+    },
+    "activo":"Active",
+    "inactivo":"Inactive",
+    "registrar":"Registration",
+    "slide-1":{
+        "titulo":"Welcome.",
+        "descripcion":"VentSupport facilitates the clinical interpretation and monitoring of a patient connected to a Mechanical Ventilator in a hospital."
+    },
+    "slide-2":{
+        "titulo":"Let's transform the crisis into opportunities for change.",
+        "descripcion":"We offer solutions that adapt to the changing needs of the global healthcare industry."
+    },
+    "slide-3":{
+        "titulo":"Let's transform the crisis into opportunities for change.",
+        "descripcion":"We offer solutions that adapt to the changing needs of the global healthcare industry."
+    },
+
+    "AcercaDe":{
+        "titulocentral":"VentSupport about ",
+        "producto":"VentSupport",
+
+        "PlugAndPlay":{
+            "titulo":"Plug & Play",
+            "t1":"Connect and Install",
+            "t2":"Available on Windows and Linux",
+            "t3":"Any computer device",
+            "t4":"Simulation mode (demo)",
+            "t5":"Offline working"
+        },
+        "Accionable": {
+                "titulo":"Actionable",
+                "t1":"Easy interpretation",
+                "t2":"24/7 Monitoring every 2 minutes",
+                "t3":"Classify respiratory asynchronies by type and severity",
+                "t4":"Auto-Peep Detecting"
+        },
+        "SanaDistancia": {
+            "titulo":"Social distance",
+            "t1":"Cloud Synchronization",
+            "t2":"Web access",
+            "t3":"Reduces risk to clinical staff",
+            "t4":"Mobile Alerts"
+        },
+        "RespaldoClinico": {
+            "titulo":"Clinical Support",
+            "t1":"Dr. Guillermo Gutiérrez (MD – PhD)",
+            "t2":"Tested on hundreds of patients",
+            "t3":"AI algorithms trained with thousands of hours of monitoring"
+        }
+},
+"leerMas":"Read More",
+"fechaEpoca":"Date last epoch",
+"estatusEpoca":"last epoch status",
+"home": {
+    "inicio": "Home",
+    "acercade": "About us",
+    "portafolio":"Our clients",
+    "solucion":"Solution",
+    "descargar":"Download",
+    "registrar":"Registration",
+    "ingresar":"Log In",
+    "contacto":"Contact us"
+},
+
+    "portafolio": {
+        "titulocentral":"Our Clients",
+        "textocentral":"We are proud having a wide range of clients that we can turn to to validate our expertise, our services, and your professionalism.",
+        "titulo1":"National Institute of Medical Sciences and Nutrition Salvador Zubirán",
+        "texto1":"...",
+        "titulo2":"Mexican Social Security Institute ",
+        "texto2":"..."
+    },
+
+    "solucion": {
+        "titulocentral":"How does our solution work?"
+    },
+
+    "contactosec" : {
+        "titulocentral":"Contact Us",
+        "nuestrasredes":"Social media",
+        "face":"Facebook",
+        "twitter":"Twitter",
+        "nuestradireccion":"Our Address",
+        "direccion":"A108 Adam Street, New York, NY 535022",
+        "emailus":"Email",
+        "email":"contactoventsupp@gmail.com",
+        "callUs":"Call Us",
+        "phone":" ",
+        "loading":"Loading",
+        "mensajeenviado":"Your message has been sent. Thank you!"
+    },
+
+    "alerts": {
+        "noepocasusuario":"No se encontraron epocas para el usuario ",
+        "emailsentto":"An email was sent to:",
+        "unregisteredemail":"Unregistered email.",
+        "nohospitalscountry":"There are no registered hospitals in this country",
+        "useralreadyexists":"User already exists, try another name",
+        "failedtosendactivationemail":"Failed to send activation email.",
+        "userpasscorrect":"The username and password are correct.",
+        "usernotactivated":"User not activated",
+        "wrongpass":"Wrong password please enter it correctly.",
+        "noconnection":"Internet connection error",
+        "usernamenotexist":"Username does not exist.",
+        "sistemanocompatible":"Operating System not compatible",
+        "errorgeneral":"Internal error, please try again later",
+        "codigoincorrecto":"The code is incorrect"
+    }, 
+
+    "botones": {
+        "salir":"Exit"
+    },
+
+    "faq": {
+        "titulocentral":"Frequently asked questions",
+        "q1":"In our hospital we have mechanical ventilators of different brands and models. Can we use Vent Support?",
+        "r1":"Vent Support is a constantly growing application. We have a base catalog of compatible fan brands and models that continually add devices. In the event that the brand / model they wish to work with is still not in our catalog, a new link must be developed, this process is usually carried out jointly between the ventilator manufacturer, Vent Support and the hospital concerned",
+        "q2":"Patient information must be safeguarded at all times. How does Vent Support guarantee data protection?",
+        "r2":"Since its inception, Vent Support integrates the best standards in data protection. We have numerous security features to safeguard patient data. Vent Support does not store personal data or medical history information that identifies the identity of a patient by itself. All data travels and is stored encrypted",
+        "q3":"Is historical patient data stored in the cloud?",
+        "r3":"Consulting information on the patient's respiratory flow in real time from the web platform is one of the main features of Vent Support. We have the flexibility to adapt the application to a hybrid cloud scheme or, if necessary, -on premise-",
+        "q4":"What if the hospital does not have internet in the intensive care room?",
+        "r4":"Vent Support does not need an internet connection to work, it is highly recommended to explore all the features of the application but it is possible to work in rooms without internet access",
+        "q5":"What is the Vent Support hiring process?",
+        "r5":"Please contact a representative at this link for more commercial information",
+        "q6":"How does Vent Support help in the treatment of patients with Covid?",
+        "r6":"Vent Support provides complete historical information on the patient's respiratory flows. Analyzing information about the patient's condition over a long period of time generates better recommendations and provides doctors with enough information to make the best decision in the treatment of the patient. With a high demand in emergency rooms, health personnel are overwhelmed in continuously monitoring all patients. With Vent Support they can receive automatic alerts of patients who suddenly change their status, in addition to visualizing their historical evolution and thus supporting their treatmen",
+        "q7":"How long does it take for a patient's information to be transferred to the web platform?",
+        "r7":"It depends on the internet access facilities provided by the hospital. In ideal situations with a wireless internet connection the data will be reflected on the website one second after being collected by the fan",
+        "q8":"In which hospitals has Vent Support been tested?",
+        "r8":"Vent Support has been tested in intensive care rooms in several countries."    
+    },
+
+    "footer":{
+        "derechos":"Copyright",
+        "correo":"Email",
+        "version":"Version"
+    }, 
+
+    "pageControls": {
+        "anterior":"Previous",
+        "siguiente":"Next"
+}
+
+
+}
